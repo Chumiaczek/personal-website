@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "./static/js/main.d745cced.js",
-    "static/media/experience-design.svg": "./static/media/experience-design.cbf291e5c6e6986789e61231d8e0a05c.svg",
-    "index.html": "./index.html",
-    "main.d745cced.js.map": "./static/js/main.d745cced.js.map"
+    "main.js": "/static/js/main.f017b70d.js",
+    "static/media/experience-design.svg": "/static/media/experience-design.cbf291e5c6e6986789e61231d8e0a05c.svg",
+    "index.html": "/index.html",
+    "main.f017b70d.js.map": "/static/js/main.f017b70d.js.map"
   },
   "entrypoints": [
-    "static/js/main.d745cced.js"
+    "static/js/main.f017b70d.js"
   ]
 }
