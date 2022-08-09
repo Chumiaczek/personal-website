@@ -6,7 +6,7 @@ const Container = styled.div`
     z-index: ${({ isOpen }) => (isOpen ? "0" : "100")};
 `;
 const Wrapper = styled.div`
-    padding: 0 25px;
+    padding: 0px 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
